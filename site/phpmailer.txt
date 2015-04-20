@@ -1,0 +1,7 @@
+Host smtp.mandrillapp.com
+
+Port 587
+
+SMTP Username harshiljethava7@gmail.com
+
+api : CWhVDlzEBPGqRIvilaecJw
